@@ -117,38 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="imageList2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>18, 21</value>
-  </metadata>
-  <data name="imageList2.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
-    <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
-        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
-        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAADY
-        BAAAAk1TRnQBSQFMAgEBCwEAARgBAAEIAQABEAEAARABAAT/ASEBAAj/AUIBTQE2BwABNgMAASgDAAFA
-        AwABMAMAAQEBAAEgBgABMBIAwP9AAMD/QADA/0AAZP8B/QH+Af09/wH9Af4B/Qn/AfwP/0AAZP8BPwE4
-        AckD/wH7Of8BPwE4AckD/wH7Af8B+gH+Av8B+QL+Df9AAGj/AYcBhQHRA/8B+jn/AYcBhQHRAf8BKQEf
-        AecR/0AAiv8B/gH/Av0B9wX/Ac4B0AHRAf8B1AHRAcwB/wH7Af4B/QH/AfsD/wH8A/8BzgHLAc4C/wH8
-        Af4D/wH+Af8BmQGcAaQB/wL9AfwF/0AAjP8BggF/AXoB/wH+Af8B/QH/AXsBfgGDAf8B8gHvAegB/wH0
-        Af4C/wGDAnsC/wH+Av8BfgF9AYQB/wHbAesB/Af/Af4B/wGgAZABhQX/QAAl/wH+Av8BzQHKAfMB/wH+
-        Av0D/wH+A/8B/i7/Af4C/wHNAcoB8wH/Af4C/QP/Af4D/wH+Ff8D/gX/AfwB/gP/Av4J/wL+Af0B/wHO
-        AcsB9AH/AfoB/gH7A/8B/gH/A/4C/wL+Bf9AACT/A/4B/wE3ATQBuAH/AewB5wH9Af8B9gH3Mv8D/gH/
-        ATcBNAG4Af8B7AHnAf0B/wH2Afcy/wP+Af8BNwE0AbgB/wHsAecB/QH/AfYB9w7/QAAq/wH8Af8B+gH+
-        Av8B/Tn/AfwB/wH6Af4C/wH9Of8B/AH/AfoB/gL/Af0P/0AAFP8D/BH/AS8BJQHSAf8B5AHnAfol/wP8
-        Ef8BLwElAdIB/wHkAecB+iX/A/wR/wEvASUB0gH/AeQB5wH6Ef9AABj/AwEB/wP+Dv8B/ir/AwEB/wP+
-        Dv8B/ir/AwEB/wP+Dv8B/hL/QAAU/wO/Af8DvwH/A8AB/wO/Af8DvwH/A78p/wO/Af8DvwH/A8AB/wO/
-        Af8DvwH/A78p/wO/Af8DvwH/A8AB/wO/Af8DvwH/A78V/0AAwP9AAMD/QAD/////////////////////
-        7f8B/gL/Ac0BygHzff8BNwE0AbgB/wHsAecB/QH/Af4B/wH8Nf8BNwE0AbgB/wHsAecB/QH/Af4B/wH8
-        Mf8D/gH/ATcBNAG4Af8B7AHnAf0B/wH+Af8B/Hf/AfwB/wH6Af4C/wH9Of8B/AH/AfoB/gL/Af05/wH8
-        Af8B+gH+Av8B/SP/A/09/wP8Ef8BLwElAdIB/wHkAecB+iX/A/wR/wEvASUB0gH/AeQB5wH6Jf8D/BH/
-        AS8BJQHSAf8B5AHnAfop/wMBPf8DAQH/A/4O/wH+Kv8DAQH/A/4O/wH+Kv8DAQH/A/4O/wH+Jv8DvwH/
-        A78B/wO/Af8DvwH/A78B/wO/Kf8DvwH/A78B/wPAAf8DvwH/A78B/wO/Kf8DvwH/A78B/wPAAf8DvwH/
-        A78B/wO/Kf8DvwH/A78B/wPAAf8DvwH/A78B/wO////////////////////////////////////2/wP9
-        //8C/wMBuf8DvwH/A78B/wO/Af8DvwH/A78B/wO/Kf8DvwH/A78B/wO/Af8DvwH/A78B/wO//////xf/
-        AUIBTQE+BwABPgMAASgDAAFAAwABMAMAAQEBAAEBBQABgAEBFgAD//8AggAL
-</value>
-  </data>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>137</value>
-  </metadata>
 </root>

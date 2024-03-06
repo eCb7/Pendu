@@ -1,11 +1,11 @@
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe.config
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\bin\Debug\Pendu.pdb
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.AssemblyReference.cache
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.Form1.resources
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.cache
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.exe
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.pdb
-C:\Users\e.choin\OneDrive - BYCN\Documents\Projets\Pendu\Pendu\Pendu\obj\Debug\Pendu.Form.resources
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe.config
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\bin\Debug\Pendu.pdb
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.AssemblyReference.cache
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.Form1.resources
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.cache
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.exe
+C:\Users\e.choin\Source\Repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.pdb
+C:\Users\e.choin\source\repos\AdamLnt\Pendu\Pendu\Pendu\obj\Debug\Pendu.Form2.resources

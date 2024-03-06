@@ -15,7 +15,7 @@ namespace Pendu
             InitializeLetterButtons();
         }
 
-        // Initialiser les boutons de lettres
+        // Initialiser les acboutons de lettres
         private void InitializeLetterButtons()
         {
             char[] alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
